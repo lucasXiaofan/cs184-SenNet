@@ -1,7 +1,7 @@
 # cs184-SenNet
 cs 184 group 17 SenNet approach
 
-we run all of our experiments on Kaggle, each training and inference code have : 
+we run all of our experiments on Kaggle, each training and inference code have different version, the notebook only shows the latest version, but you can check for different version : 
 here is our inference/submission code: 
 https://www.kaggle.com/code/langzhelu/second-sennet-submission?scriptVersionId=154097255
 
