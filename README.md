@@ -28,7 +28,7 @@ https://www.kaggle.com/datasets/langzhelu/resnext-1-2-1-before-final-report/sett
 https://www.kaggle.com/datasets/langzhelu/800x800kidney2/settings
 ---
 # ✨Instruction to run our code: 
-the easiest way to run our code is using kaggle notebook, because we have 20GB of training data
+the easiest way to run our code is using kaggle notebook, because **according to Kaggle competition's rule: before SenNet Competition finish, the competition's data may only show to people who participate in competition**, plus we have 20GB of training data
 1. create an kaggle account
 2. join the kaggle competition: https://www.kaggle.com/competitions/blood-vessel-segmentation
 3. copy our inference code : https://www.kaggle.com/code/langzhelu/second-sennet-submission?scriptVersionId=154097255
