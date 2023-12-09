@@ -4,6 +4,8 @@
 Group 17, final presentation 11/29 group 3 </br>
 Dean Nguyen, 23445044, deanpn@uci.edu</br>
 XiaoFan Lu, 44016122, xiaofl14@uci.edu </br>
+## final report: 
+https://docs.google.com/document/d/13d0RIUAwX_GD4tu60LHovjWf9XiHbCYsOrl5xRO-J5o/edit?usp=sharing
 
 
 # Instruction to run our code: 
