@@ -4,8 +4,9 @@
 Group 17, final presentation 11/29 group 3 </br>
 Dean Nguyen, 23445044, deanpn@uci.edu</br>
 XiaoFan Lu, 44016122, xiaofl14@uci.edu </br>
-## final report: 
+# final report
 https://docs.google.com/document/d/13d0RIUAwX_GD4tu60LHovjWf9XiHbCYsOrl5xRO-J5o/edit?usp=sharing
+
 ---
 # Our inference code: 
 we run all of our experiments on Kaggle, each training and inference code have different version, the notebook only shows the latest version, but you can check for different version : 
@@ -25,8 +26,8 @@ https://www.kaggle.com/deanphamnguyen/dean-attention-unet-patch
 https://www.kaggle.com/datasets/langzhelu/resnext-1-2-1-before-final-report/settings
 * 800x800 patches on kidney 1 & 2 dataset: 
 https://www.kaggle.com/datasets/langzhelu/800x800kidney2/settings
-
-# Instruction to run our code: 
+---
+# ✨Instruction to run our code: 
 the easiest way to run our code is using kaggle notebook, because we have 20GB of training data
 1. create an kaggle account
 2. join the kaggle competition: https://www.kaggle.com/competitions/blood-vessel-segmentation
