@@ -7,6 +7,11 @@ Dean Nguyen, 23445044, deanpn@uci.edu</br>
 XiaoFan Lu, 44016122, xiaofl14@uci.edu </br>
 # final report
 https://docs.google.com/document/d/13d0RIUAwX_GD4tu60LHovjWf9XiHbCYsOrl5xRO-J5o/edit?usp=sharing
+---
+# check our code locally
+* due to kaggle competition rule, the data is only available to competition participant, so we did not download the competition dataset for training and inference, however there are output in the notebook we provide, you may check the prediction of our project.
+* if you have your own CT-kideny images, you may try our inference code 
+and change file direction to examine the prediction. 
 
 ---
 # Our inference code: 
