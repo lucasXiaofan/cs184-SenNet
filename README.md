@@ -8,7 +8,8 @@ XiaoFan Lu, 44016122, xiaofl14@uci.edu </br>
 # final report
 https://docs.google.com/document/d/13d0RIUAwX_GD4tu60LHovjWf9XiHbCYsOrl5xRO-J5o/edit?usp=sharing
 ---
-# check our code locally
+# Check our code locally
+**Recommend to run our code in Kaggle, instruction below**
 * Due to Kaggle competition rule, the data is only available to competition participants, so we did not download the competition dataset for training and inference, however, there are model predictions in the inference notebook we provide, you may check the prediction of our project.
 * If you have your own CT-kidney images, you may try our inference code 
 and change file direction to examine the prediction.
