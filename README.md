@@ -9,9 +9,19 @@ XiaoFan Lu, 44016122, xiaofl14@uci.edu </br>
 https://docs.google.com/document/d/13d0RIUAwX_GD4tu60LHovjWf9XiHbCYsOrl5xRO-J5o/edit?usp=sharing
 ---
 # check our code locally
-* due to kaggle competition rule, the data is only available to competition participant, so we did not download the competition dataset for training and inference, however there are output in the notebook we provide, you may check the prediction of our project.
-* if you have your own CT-kideny images, you may try our inference code 
-and change file direction to examine the prediction. 
+* Due to Kaggle competition rule, the data is only available to competition participants, so we did not download the competition dataset for training and inference, however, there are model predictions in the inference notebook we provide, you may check the prediction of our project.
+* If you have your own CT-kidney images, you may try our inference code 
+and change file direction to examine the prediction.
+## training code: 
+1. dean-attention-unet-patch.ipynb
+   https://github.com/lucasXiaofan/cs184-SenNet/blob/main/dean-attention-unet-patch.ipynb
+2. resnext50_800_patch_training.ipynb
+   https://github.com/lucasXiaofan/cs184-SenNet/blob/main/resnext50_800_patch_training.ipynb
+## inference code: 
+1. second-sennet-submission-c96555.ipynb
+   https://github.com/lucasXiaofan/cs184-SenNet/blob/main/second-sennet-submission-c96555.ipynb
+2. LeaderBoard_score_0.404_inference.ipynb
+   https://github.com/lucasXiaofan/cs184-SenNet/blob/main/LeaderBoard_score_0.404_inference.ipynb
 
 ---
 # Our inference code: 
